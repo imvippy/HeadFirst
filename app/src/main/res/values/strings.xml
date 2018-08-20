@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HeadFirst</string>
+    <string name="button">Button</string>
+    <string name="brands">Brands</string>
+    <string-array name="beer_colors">
+        <item>Light</item>
+        <item>amber</item>
+        <item>Brown</item>
+        <item>Dark</item>
+    </string-array>
+    <string name="title_activity_multiple">MultipleActivity</string>
+    <string name="send_message">Send Message</string>
+    <string name="simple_text">Type Something...</string>
+    <string name="title_activity_stop_watch">StopWatchActivity</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="SECONDS">seconds</string>
+    <string name="RUNNING">running</string>
+    <string name="WASRUNNING">wasrunning</string>
+    <string name="title_activity_handler_demo">HandlerDemo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

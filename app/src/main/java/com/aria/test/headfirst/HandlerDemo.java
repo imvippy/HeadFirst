@@ -41,7 +41,7 @@ public class HandlerDemo extends AppCompatActivity implements View.OnClickListen
                     mStartLoop=true;
                     while(mStartLoop) {
                         sleep(1000);
-                        Log.d("My App","hi");
+                        Log.d("My App","Hello i am under other thread");
                     }
                 } catch (InterruptedException e) {
                     e.printStackTrace();
